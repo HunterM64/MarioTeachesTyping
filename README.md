@@ -1,2 +1,2 @@
-# MarioTeachesTyping
+# Mario Teaches Typing
 A WIP decompilation of Mario Teaches Typing (1992) for MS-DOS
